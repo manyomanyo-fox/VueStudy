@@ -1,2 +1,2 @@
 # VueStudy
-Vueの勉強
+Vueの勉強ですよ!!!
